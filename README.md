@@ -1,6 +1,4 @@
-+var 1;
-+var b;
-+
+
 +void OnStart()
 +{
 +
