@@ -1,0 +1,9 @@
+var c = a + b;
+Message("C = " + c.ToString());
+}
+
+
+void StringAddIng(string s)
+{
+s += "ing";
+}
